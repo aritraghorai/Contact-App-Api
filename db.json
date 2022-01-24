@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "166678ce-da30-4fe1-8871-9e4b8cab3d7e",
+      "name": "Aritra",
+      "email": "aritra1521@gmail.com"
+    },
+    {
+      "id": "48ba5675-0cee-4209-a79d-08e5399ae218",
+      "name": "Amrendra",
+      "email": "amrendra@gmail.com"
+    },
+    {
+      "id": "8c4be9dc-edce-410b-b696-15f612422234",
+      "name": "Ankan",
+      "email": "ankan@gmail.com"
+    },
+    {
+      "id": "271a30d2-c3ce-4697-a853-5d1be5a46fa5",
+      "name": "abhay",
+      "email": "abhay@outlook.com"
+    }
+  ]
+}
